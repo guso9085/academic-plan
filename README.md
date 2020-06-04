@@ -24,41 +24,42 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2016-2017
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
+| APPM 1350 – Calculus 1                      | 4   | MATH 2300 – Calculus 2                                          | 5   |
 | PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
 | CSCI 1000 – CS as A Field Of Study          | 1   | CSCI 2270 – Data Structures                                     | 4   |
-| CSCI 1300 – Computer Sci 1: Programming     | 4   | PSCI 2004 – Survey of Western Political Thought                 | 3   |
-| PSCI 1101 – Intro to American Politics      | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 15  |
+| CSCI 1300 – Computer Sci 1: Programming     | 4   | FREN 1880 – Zombies and Ghost of Slavery                        | 3   |
+| PSYC 1001 – General Psychology              | 3   |                                                                 |     |
+|                                             | 16  |                                                                 | 16  |
 
 ### 2017-2018
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | CSCI 3022 – Data Science Algorithms                             | 3   |
-| CSCI 2270 – Linear Algebra w/ CS Applications| 3  | CSCI 3002 – Human-Centered Computing                            | 3   |
-| PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
-| PSYC 1001 - General Psychology              | 3   | INFO 3504 - Problems in Info Science: Digital Identity          | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
-|                                             | 17  |                                                                 | 16  |
+| CSCI 2824 – Discrete Structures             | 3   | SCAN 1202 – Tolkien's Nordic Sources                            | 3   |
+| CSCI 2270 – Linear Algebra w/ CS Application| 3   | CSCI 3002 – Human-Centered Computing                            | 3   |
+| PHYS 1140 – Experimental Physics Lab        | 1   | CSCI 3308 - Software Dev Methods and Tools                      | 3   |                            
+| GEOL 1010 - Intro to Geology                | 3   | ASTR 2030 - Black Holes                                         | 3   |
+|                                             | 14  |                                                                 | 16  |
 
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 – Natural Language Processing                         | 3   |
-| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-| INFO 4604 - Applied Machine Learning        | 3   | PSCI 3225 - Strategy & Politics                                 | 3   |
-| WRTG 3030 - Writing on Science & Society    | 3   | GEOG 3742 - Place, Power,  Culture                              | 3   |
-| CSCI 3702 - Cognitive Science               | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 12  |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3287 – Data Systems                                        | 3   |
+| EBIO 1030 – Biology 1                       | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
+| CSCI 3022 – Data Science Algorithms         | 3   | CSCI 3403 - Cybersecurity                                       | 4   |
+| WRTG 3030 - Writing on Science & Society    | 3   | RUSS 3241 - Russian Sci-Fi                                      | 3   |
+|                                             |     | WRTG 3030 - Writing Science - Society                           | 3   |
+|                                             | 13  |                                                                 | 16  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Entrepreneurial Projects        | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 4622 - Machine Learning                | 3   |                                                                 |     |
-| CSCI 4502 – Data Mining                     | 3   |                                                                 |     |
-| MUEL 2061 - Intro to Music Technology       | 3   |                                                                 |     | |                                             | 13  |                                                                 | 4   |
+| CSCI 3202 – Artificial Intelligence         | 3   | CSCI 3656 - Numerical Computation                               | 3   |
+| ARTS 1012 – Drawing                         | 3   | CSCI 4830 - Wearable Technology                                 | 3   |
+| SCAN 3202 - Old Norse Mythology             | 3   | CSCI 4900 - Independent Study                                   | 1   | 
+| SWED 1010 - Swedish 1                       | 4   | SWED 1020 - Swedish 2                                           | 4   | 
+|                                             | 17  |                                                                 | 15   |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
@@ -86,10 +87,10 @@ Six of the following courses are required:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
 * [ ] CSCI 3287-3, Design & Analysis of Data Systems
-* [x] CSCI 3832-3, Natural Language Processing
+* [ ] CSCI 3832-3, Natural Language Processing
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3434-3, Theory of Computation
-* [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
+* [X] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
 * [x] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
 * [x] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
