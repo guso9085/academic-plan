@@ -61,8 +61,8 @@ Personal coursework and schedule for University of Colorado Boulder
 | SWED 1010 - Swedish 1                       | 4   | SWED 1020 - Swedish 2                                           | 4   | 
 |                                             | 17  |                                                                 | 15   |
 
-* **College Total**: 114
-* **HS Transfer Credits**:30
+* **College Total**: 123
+* **HS Transfer Credits**:6
   * 11 lower-division humanities
   * 8 natl. sciences
   * 11 free electives
@@ -86,12 +86,12 @@ All of the following courses are required:
 Six of the following courses are required:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
-* [ ] CSCI 3287-3, Design & Analysis of Data Systems
+* [X] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3832-3, Natural Language Processing
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3434-3, Theory of Computation
 * [X] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
-* [x] CSCI 3702-3, Cognitive Science
+* [ ] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
 * [x] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
@@ -100,7 +100,7 @@ Six of the following courses are required:
 * [ ] CSCI 4273-3, Network Systems
 * [ ] CSCI 4302-3, Advanced Robotics
 * [ ] CSCI 4314-3, Algorithms for Molecular Biology
-* [ ] CSCI 4413-3, Computer Security & Ethical Hacking
+* [X] CSCI 4413-3, Computer Security & Ethical Hacking
 * [ ] CSCI 4446-3, Chaotic Dynamics
 * [ ] CSCI 4448-3, Object-Oriented Analysis and Design
 * [x] CSCI 4502-3, Data Mining
@@ -119,11 +119,11 @@ Six of the following courses are required:
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
 * [] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
-* [x] INFO 3504-3, Problems in Information Science: Digital Identity
+* [ ] INFO 3504-3, Problems in Information Science: Digital Identity
 * [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
-* [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
-* [ ] CSCI 4830-3, Special Topics in Computer Science
+* [X] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
+* [X] CSCI 4830-3, Special Topics in Computer Science
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
@@ -214,5 +214,4 @@ At least six of the remaining 21 credit hours must be at the upper-division unde
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
 
-## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Computer Science.
+Graduated with a B.S. in Computer Science.
