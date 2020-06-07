@@ -62,10 +62,8 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             | 17  |                                                                 | 15   |
 
 * **College Total**: 123
-* **HS Transfer Credits**:6
-  * 11 lower-division humanities
-  * 8 natl. sciences
-  * 11 free electives
+* **HS Transfer Credits**: 6
+  * 6 free electives
 * **Total Final Credits**: 129/128
 
 ## CS Requirements
