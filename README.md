@@ -66,7 +66,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * 11 lower-division humanities
   * 8 natl. sciences
   * 11 free electives
-* **Total Total**: 144
+* **Total Total**: 129
 
 ## CS Requirements
 
